@@ -70,12 +70,7 @@
               "RelativeToolTip": "AuthenticationNetCore\\Data\\AppDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2024-10-08T13:34:24.096Z"
-=======
-              "WhenOpened": "2024-10-08T13:34:24.096Z",
-              "EditorCaption": ""
->>>>>>> 239219f41ee710c655f5ad58d7e2d64a9ea47d16
             },
             {
               "$type": "Document",
@@ -87,12 +82,7 @@
               "RelativeToolTip": "AuthenticationNetCore\\Dtos\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2024-10-08T13:34:17.895Z"
-=======
-              "WhenOpened": "2024-10-08T13:34:17.895Z",
-              "EditorCaption": ""
->>>>>>> 239219f41ee710c655f5ad58d7e2d64a9ea47d16
             },
             {
               "$type": "Document",
@@ -104,12 +94,7 @@
               "RelativeToolTip": "AuthenticationNetCore\\Dtos\\RegisterDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2024-10-08T13:34:17.055Z"
-=======
-              "WhenOpened": "2024-10-08T13:34:17.055Z",
-              "EditorCaption": ""
->>>>>>> 239219f41ee710c655f5ad58d7e2d64a9ea47d16
             },
             {
               "$type": "Document",
@@ -121,12 +106,7 @@
               "RelativeToolTip": "AuthenticationNetCore\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2024-10-08T13:34:13.011Z"
-=======
-              "WhenOpened": "2024-10-08T13:34:13.011Z",
-              "EditorCaption": ""
->>>>>>> 239219f41ee710c655f5ad58d7e2d64a9ea47d16
             },
             {
               "$type": "Document",
@@ -151,12 +131,7 @@
               "RelativeToolTip": "AuthenticationNetCore\\Controllers\\RoleController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAgwEMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2024-10-08T12:42:00.817Z"
-=======
-              "WhenOpened": "2024-10-08T12:42:00.817Z",
-              "EditorCaption": ""
->>>>>>> 239219f41ee710c655f5ad58d7e2d64a9ea47d16
             },
             {
               "$type": "Document",
@@ -168,12 +143,7 @@
               "RelativeToolTip": "AuthenticationNetCore\\Controllers\\AccountController.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2024-10-08T12:41:58.486Z"
-=======
-              "WhenOpened": "2024-10-08T12:41:58.486Z",
-              "EditorCaption": ""
->>>>>>> 239219f41ee710c655f5ad58d7e2d64a9ea47d16
             }
           ]
         }
