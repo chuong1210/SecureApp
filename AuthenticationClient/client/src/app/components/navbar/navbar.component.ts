@@ -27,6 +27,10 @@ export class NavbarComponent {
   matSnackBar = inject(MatSnackBar);
   router = inject(Router);
 
+
+  viewDetails(userId: string): void {
+    this.router.navigate(['/user', userId]); // Điều hướng đến trang chi tiết người dùng
+  }
   isLoggedIn() {
     return this.authService.isLoggedIn();
   }

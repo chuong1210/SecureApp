@@ -96,8 +96,9 @@ export class RegisterComponent implements OnInit {
     );
 
     this.roles$ = this.roleService.getRoles();
-  }
+    console.log(this.roleService.getRoles())
 
+  }
   private passwordMatchValidator(
     control: AbstractControl
   ): { [key: string]: boolean } | null {

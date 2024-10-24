@@ -7,13 +7,15 @@ import { HttpClient } from '@angular/common/http';
 import { jwtDecode } from 'jwt-decode';
 import { RegisterRequest } from '../interfaces/register-request';
 import { UserDetail } from '../interfaces/user-detail';
+import { ResetPasswordRequest } from '../interfaces/reset-password-request';
+import { ChangePasswordRequest } from '../interfaces/change-password-request';
 
 @Injectable({
   providedIn: 'root',
 })
 export class AuthService {
   apiUrl: string = environment.apiUrl;
-  private tokenKey = 'token';
+  private userKey = 'user';
 
   constructor(private http: HttpClient) {}
 
@@ -23,7 +25,7 @@ export class AuthService {
       .pipe(
         map((response) => {
           if (response.isSuccess) {
-            localStorage.setItem(this.tokenKey, response.token);
+            localStorage.setItem(this.userKey,  JSON.stringify(response));
           }
           return response;
         })
@@ -35,7 +37,18 @@ export class AuthService {
   }
 
   getDetail = (): Observable<UserDetail> =>
-    this.http.get<UserDetail>(`${this.apiUrl}account/detail`);
+    this.http.get<UserDetail>(`${this.apiUrl}account/detail`,{withCredentials: true });
+
+  // getDetail(): Observable<UserDetail> {
+  //   const token = this.getToken();
+  //   const headers = new HttpHeaders({
+  //     'Authorization': `Bearer ${token}`
+  //   });
+
+  //   console.log("Sending request to API with headers:", headers);
+
+  //   return this.http.get<UserDetail>(`${this.apiUrl}account/detail`, { headers });
+  // }
 
   getUserDetail = () => {
     const token = this.getToken();
@@ -50,6 +63,17 @@ export class AuthService {
 
     return userDetail;
   };
+  forgotPassword = (email: string): Observable<AuthResponse> =>
+    this.http.post<AuthResponse>(`${this.apiUrl}account/forgot-password`, {
+      email,
+    });
+    resetPassword = (ResetPasswordRequest: ResetPasswordRequest): Observable<AuthResponse> =>
+    {
+return this.http.post<AuthResponse>(`${this.apiUrl}account/reset-password`, ResetPasswordRequest);
+    }
+
+    changePassword=(data:ChangePasswordRequest):Observable<AuthResponse>=>
+      this.http.post<AuthResponse>(`${this.apiUrl}account/change-password`, data);
 
   isLoggedIn = (): boolean => {
     const token = this.getToken();
@@ -62,8 +86,8 @@ export class AuthService {
     if (!token) return true;
     const decoded = jwtDecode(token);
     const isTokenExpired = Date.now() >= decoded['exp']! * 1000;
-    if (isTokenExpired) this.logout();
-    return isTokenExpired;
+    // if (isTokenExpired) this.logout();
+    return true;
   }
 
   getRoles = (): string[] | null => {
@@ -74,12 +98,31 @@ export class AuthService {
     return decodedToken.role || null;
   };
 
+  refreshToken = (data: {
+    email: string;
+    token: string;
+    refreshToken: string;
+  }): Observable<AuthResponse> =>
+    this.http.post<AuthResponse>(`${this.apiUrl}account/refresh-token`, data);
   logout = (): void => {
-    localStorage.removeItem(this.tokenKey);
+    localStorage.removeItem(this.userKey);
   };
 
   getAll = (): Observable<UserDetail[]> =>
     this.http.get<UserDetail[]>(`${this.apiUrl}account`);
 
-  getToken = (): string | null => localStorage.getItem(this.tokenKey) || '';
+
+  getToken = (): string | null => {
+    const user = localStorage.getItem(this.userKey);
+    if (!user) return null;
+    const userDetail: AuthResponse = JSON.parse(user);
+    return userDetail.token;
+  };
+
+  getRefreshToken = (): string | null => {
+    const user = localStorage.getItem(this.userKey);
+    if (!user) return null;
+    const userDetail: AuthResponse = JSON.parse(user);
+    return userDetail.refreshToken;
+  };
 }

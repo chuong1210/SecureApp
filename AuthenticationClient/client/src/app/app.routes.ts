@@ -6,6 +6,9 @@ import { AccountComponent } from './pages/account/account.component';
 import { authGuard } from './guards/auth.guard';
 import { UsersComponent } from './pages/users/users.component';
 import { roleGuard } from './guards/role.guard';
+import { ForgetPassswordComponent } from './pages/forget-passsword/forget-passsword.component';
+import { ResetPassswordComponent } from './pages/reset-passsword/reset-passsword.component';
+import { ChangePasswordComponent } from './pages/change-password/change-password.component';
 
 export const routes: Routes = [
   {
@@ -26,11 +29,24 @@ export const routes: Routes = [
     canActivate: [authGuard],
   },
   {
+    path: 'forget-password',
+    component: ForgetPassswordComponent,
+  },
+  {
+    path: 'reset-password',
+    component: ResetPassswordComponent,
+  },
+  {
+    path: 'change-password',
+    component: ChangePasswordComponent,
+    canActivate: [authGuard],
+  },
+  {
     path: 'users',
     component: UsersComponent,
     canActivate: [roleGuard],
     data: {
-      roles: ['Admin'],
+      roles: ['User','Admin'],
     },
   },
 ];

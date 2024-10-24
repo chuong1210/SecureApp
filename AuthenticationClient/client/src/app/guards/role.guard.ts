@@ -16,11 +16,12 @@ export const roleGuard: CanActivateFn = (route, state) => {
     });
     return false;
   }
-  const userRoles = authService.getRoles();
+  const userRoles : string[]|null = authService.getRoles();
   console.log(userRoles);
   console.log(roles);
 
-  if (roles.some((role) => userRoles?.includes(role))) return true;
+  if (roles.some((role) => userRoles?.includes(role)))
+    return true;
   router.navigate(['/']);
   matSnackBar.open('You do not have permission to view this page', 'OK', {
     duration: 3000,

@@ -168,3 +168,4 @@ C:\Users\chuon\source\repos\AuthenticationNetCore\AuthenticationNetCore\bin\Debu
 C:\Users\chuon\source\repos\AuthenticationNetCore\AuthenticationNetCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\chuon\source\repos\AuthenticationNetCore\AuthenticationNetCore\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
 C:\Users\chuon\source\repos\AuthenticationNetCore\AuthenticationNetCore\obj\Debug\net8.0\AuthenticationNetCore.sourcelink.json
+C:\Users\chuon\source\repos\AuthenticationNetCore\AuthenticationNetCore\bin\Debug\net8.0\RestSharp.dll

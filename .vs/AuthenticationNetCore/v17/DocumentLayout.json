@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\repository\\imp\\inmemoryrefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\repository\\imp\\inmemoryrefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\repository\\imp\\invalidatedtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\repository\\imp\\invalidatedtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\repository\\iinvalidatedtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\repository\\iinvalidatedtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|c:\\users\\chuon\\source\\repos\\authenticationnetcore\\authenticationnetcore\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E365373-2696-46C3-8BD7-ACD9241AF831}|AuthenticationNetCore\\AuthenticationNetCore.csproj|solutionrelative:authenticationnetcore\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +46,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationNetCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\appsettings.json",
+              "RelativeToolTip": "AuthenticationNetCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T16:38:35.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryRefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Repository\\imp\\InMemoryRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "AuthenticationNetCore\\Repository\\imp\\InMemoryRefreshTokenRepository.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Repository\\imp\\InMemoryRefreshTokenRepository.cs",
+              "RelativeToolTip": "AuthenticationNetCore\\Repository\\imp\\InMemoryRefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:05:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AuthenticationNetCore\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AuthenticationNetCore\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAkwLkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:03:16.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "AuthenticationNetCore\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Service\\TokenService.cs",
+              "RelativeToolTip": "AuthenticationNetCore\\Service\\TokenService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:51:26.688Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -57,93 +117,81 @@
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Data\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "AuthenticationNetCore\\Data\\AppDBContext.cs",
-              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Data\\AppDBContext.cs",
-              "RelativeToolTip": "AuthenticationNetCore\\Data\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T13:34:24.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Dtos\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "AuthenticationNetCore\\Dtos\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Dtos\\LoginDTO.cs",
-              "RelativeToolTip": "AuthenticationNetCore\\Dtos\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T13:34:17.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Dtos\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "AuthenticationNetCore\\Dtos\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Dtos\\RegisterDTO.cs",
-              "RelativeToolTip": "AuthenticationNetCore\\Dtos\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T13:34:17.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "AuthenticationNetCore\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Models\\AppUser.cs",
-              "RelativeToolTip": "AuthenticationNetCore\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T13:34:13.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Program.cs",
               "RelativeDocumentMoniker": "AuthenticationNetCore\\Program.cs",
               "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Program.cs",
               "RelativeToolTip": "AuthenticationNetCore\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T13:33:58.584Z",
+              "WhenOpened": "2024-10-24T10:47:44.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Controllers\\RoleController.cs",
-              "RelativeDocumentMoniker": "AuthenticationNetCore\\Controllers\\RoleController.cs",
-              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Controllers\\RoleController.cs",
-              "RelativeToolTip": "AuthenticationNetCore\\Controllers\\RoleController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwEMAAAASAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "InvalidatedTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Repository\\imp\\InvalidatedTokenRepository.cs",
+              "RelativeDocumentMoniker": "AuthenticationNetCore\\Repository\\imp\\InvalidatedTokenRepository.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Repository\\imp\\InvalidatedTokenRepository.cs",
+              "RelativeToolTip": "AuthenticationNetCore\\Repository\\imp\\InvalidatedTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:42:00.817Z"
+              "WhenOpened": "2024-10-24T10:39:45.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "AuthenticationNetCore\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "AuthenticationNetCore\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "AuthenticationNetCore\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "AuthenticationNetCore\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:41:58.486Z"
+              "WhenOpened": "2024-10-24T10:36:45.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthenticationNetCore\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AuthenticationNetCore\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:32:50.199Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IInvalidatedTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Repository\\IInvalidatedTokenRepository.cs",
+              "RelativeDocumentMoniker": "AuthenticationNetCore\\Repository\\IInvalidatedTokenRepository.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AuthenticationNetCore\\AuthenticationNetCore\\Repository\\IInvalidatedTokenRepository.cs",
+              "RelativeToolTip": "AuthenticationNetCore\\Repository\\IInvalidatedTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:04:17.262Z",
+              "EditorCaption": ""
             }
           ]
         }
